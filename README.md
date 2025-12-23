@@ -2,6 +2,11 @@
 
 Este diretório contém um site estático simples (HTML/CSS/JS). Fiz algumas melhorias de acessibilidade, responsividade e UX.
 
+## Site publicado (Live)
+
+- URL: https://Nelton-dev.github.io/portfolio/
+
+
 ## O que foi adicionado/alterado
 - Meta Open Graph e meta description.
 - Preconnect para Google Fonts.
